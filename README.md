@@ -19,21 +19,6 @@
 │   ├── location.html  
 │   └── update.html  
 ├── static ---存放静态的资源文件  
-│   ├── css  
-│   │   ├── bootstrap.min.css  
-│   │   ├── main.css  
-│   │   └── swiper.min.css  
-│   └── js  
-│       ├── a.js  
-│       ├── bootstrap.min.js  
-│       ├── jquery-1.12.4.js  
-│       ├── jquery-1.12.4.min.js  
-│       ├── jquery.animate-colors.js  
-│       ├── jquery.animate-colors-min.js  
-│       ├── jquery.cookie.js  
-│       ├── jquery-ui.min.js  
-│       ├── server.js  
-│       ├── swiper.jquery.min.js  
-│       ├── swiper.min.js  
-│       └── zepto.min.js  
 └── web_server.py ---mini web服务器  
+
+此项目为了学习和理解web框架原理和wsgi协议
